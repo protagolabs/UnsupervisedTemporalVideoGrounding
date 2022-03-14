@@ -16,6 +16,6 @@ language module: python train1.py
 video module: python train2.py
 
 
-# Inference:
+# Inference
 
 python predict.py
